@@ -1,3 +1,2 @@
-##This is the readme template
-
-Hello world!!!
+#NXLog for Window Firewall
+the NXLog configuration for WinFW in JSON format.
